@@ -1,0 +1,2 @@
+# StudentHousingSolution-EmailDigest
+EmailDigest Python Script for StudentHousingSolution
